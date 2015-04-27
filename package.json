@@ -1,0 +1,28 @@
+{
+  "name": "MyBlog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/h091237557/MyBlog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/h091237557/MyBlog/issues"
+  },
+  "homepage": "https://github.com/h091237557/MyBlog",
+  "dependencies": {
+    "bootstrap": "^3.3.4",
+    "gulp": "^3.8.11",
+    "gulp-filter": "^2.0.2",
+    "gulp-install": "^0.2.0",
+    "gulp-uglify": "^1.1.0",
+    "rimraf": "^2.3.2",
+    "run-sequence": "^1.0.2"
+  }
+}
